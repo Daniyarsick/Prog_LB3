@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+myweather/__init__.py
+myweather/getweatherdata.py
+myweather/weathermapkey.py
+myweather.egg-info/PKG-INFO
+myweather.egg-info/SOURCES.txt
+myweather.egg-info/dependency_links.txt
+myweather.egg-info/entry_points.txt
+myweather.egg-info/requires.txt
+myweather.egg-info/top_level.txt
+tests/__init__.py
+tests/test_getweatherdata.py

@@ -1,0 +1,2 @@
+[console_scripts]
+myweather = myweather.getweatherdata:main
